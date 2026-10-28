@@ -1,0 +1,41 @@
+body{
+    font-family:fantasy;
+    background: #8aa6f1;
+}
+#local{
+    width: 80%;
+    background: linear-gradient(90deg, #4ffe4f,#8B5CF6);
+    padding: 20px 0;
+    margin: auto;
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
+}
+
+table{
+    margin: auto;
+}
+
+#cities{
+    border-collapse: collapse;
+    width: 80%;
+}
+
+#cities td{
+    border: none;
+    padding: 8px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#cities tr{
+    background-color: #9ee97c;
+}
+
+.col1{
+    width: 10%;
+}
+
+.col2{
+    width: 45%;
+}
